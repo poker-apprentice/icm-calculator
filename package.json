@@ -12,11 +12,14 @@
   "keywords": [
     "poker",
     "poker hand",
+    "poker tournament",
+    "tournament",
     "holdem",
+    "omaha",
     "casino",
-    "analysis",
-    "statistics",
-    "stats"
+    "icm",
+    "calculator",
+    "icm calculator"
   ],
   "files": [
     "dist"
